@@ -1,2 +1,3 @@
 - Ajay Sharma [Github: Ajay Sharma](https://github.com/ajay1706)
 - Pratyush Garg [Github: Pratyush Garg](https://github.com/Pratyush2710)
+- Tarun Kumar Garg [Github: Tarun Kumar Garg](https://github.com/tarungarg2207)
